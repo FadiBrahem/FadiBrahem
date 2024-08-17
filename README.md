@@ -61,4 +61,8 @@
 
 </div>
 
-<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadiBrahem&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadiBrahem&layout=compact&theme=dracula&hide=html,css,scss,twig)](https://github.com/anuraghazra/github-readme-stats)
+</div>
