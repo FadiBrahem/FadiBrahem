@@ -42,7 +42,7 @@
   <h2 align="center">⚒️ Frameworks ⚒️</h2>  <img src="https://skillicons.dev/icons?i=angular,express,nestjs,spring,flutter,bootstrap" /><br>
   <h2 align="center">⚒️ Tools ⚒️</h2>  <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,androidstudio,git,nodejs,firebase,mongodb,mysql,discord,docker,eclipse,arduino,linkedin,gmail,npm,obsidian,postgres,powershell,sqlite,twitter,unity,wordpress,yarn" /><br>
    <h2 align="center">⚒️ Systems ⚒️</h2> <img src="https://skillicons.dev/icons?i=arch,linux,windows" /><br>
-  <h2 align="center">⚒️ Learning ⚒️</h2>  <img src="https://skillicons.dev/icons?i=typescript,sass,threejs" /><br>
+  <h2 align="center">⚒️ Learning ⚒️</h2>  <img src="https://skillicons.dev/icons?i=typescript,sass,threejs,supabase" /><br>
 </div>
 
 <br/>
