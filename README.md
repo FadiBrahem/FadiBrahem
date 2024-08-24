@@ -1,11 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FadiBrahem.FadiBrahem" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fedi+Brahem!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Tunisia 🇹🇳</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FadiBrahem&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="FadiBrahem" /> </p>
 <br/>
 
 <div align="center">
@@ -27,11 +26,11 @@
   <a href="https://www.linkedin.com/in/fedibrahem/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/FadiBrahem?tab=repositories" target="_blank">
+  <a href="https://fadibrahem.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FadiBrahem&theme=onedark" alt="FadiBrahem" /></a> </p>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools-learning ⚒️</h2>
@@ -64,5 +63,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadiBrahem&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadiBrahem&layout=compact&theme=dracula&hide=html,css,scss,twig)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FadiBrahem&theme=dark" alt="FadiBrahem" /></p>
 </div>
