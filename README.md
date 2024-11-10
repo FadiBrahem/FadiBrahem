@@ -38,13 +38,13 @@
 <div align="center">
 
   <h2 align="center">⚒️ Languages ⚒️</h2>   
-  <img src="https://skillicons.dev/icons?i=dart,c,java,js,php,cpp,cs,py,html,css,kotlin,ocaml,go,typescript" /><br>
+  <img src="https://skillicons.dev/icons?i=dart,c,java,js,php,cpp,cs,py,html,css,kotlin" /><br>
 
   <h2 align="center">⚒️ Frameworks ⚒️</h2>  
-  <img src="https://skillicons.dev/icons?i=angular,express,nestjs,spring,flutter,bootstrap,qt,react,dotnet,electron,symfony,vue,nextjs,tailwind,threejs,supabase" /><br>
+  <img src="https://skillicons.dev/icons?i=angular,express,nestjs,spring,flutter,bootstrap,qt,react,dotnet,electron,symfony,vue" /><br>
 
   <h2 align="center">⚒️ Tools ⚒️</h2>  
-  <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,androidstudio,git,nodejs,firebase,mongodb,mysql,discord,docker,eclipse,arduino,linkedin,gmail,npm,obsidian,postgres,powershell,sqlite,twitter,unity,wordpress,visualstudio" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,androidstudio,git,nodejs,firebase,mongodb,mysql,discord,docker,eclipse,arduino,linkedin,gmail,npm,obsidian,postgres,powershell,sqlite,twitter,unity,wordpress,yarn,visualstudio" /><br>
 
   <h2 align="center">⚒️ Systems ⚒️</h2> 
   <img src="https://skillicons.dev/icons?i=arch,linux,windows" /><br>
