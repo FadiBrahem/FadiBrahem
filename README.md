@@ -9,11 +9,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Mobile Applications
+ 🔭 I’m currently working as a backend developper
  
- 🌱 I’m currently learning **Docker, Supabase, AWS, Cybersecurity , Angular**
+ 🌱 I’m currently learning **Docker, Supabase, AWS, Cybersecurity , React , C# **
 
-💬 Ask me about **Node.js, Kotlin, Firebase... or anything **
+💬 Ask me about **Node.js, Kotlin, Firebase... or anything on the list below **
 
 ⚡ Here's a Fun Fact : The first 1GB hard drive was the size of a refrigerator!**
 
@@ -37,12 +37,23 @@
 <br/>
 <div align="center">
 
- <h2 align="center">⚒️ Languages ⚒️</h2>   <img src="https://skillicons.dev/icons?i=dart,c,java,js,php,cpp,cs" />
-  <h2 align="center">⚒️ Frameworks ⚒️</h2>  <img src="https://skillicons.dev/icons?i=angular,express,nestjs,spring,flutter,bootstrap" /><br>
-  <h2 align="center">⚒️ Tools ⚒️</h2>  <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,androidstudio,git,nodejs,firebase,mongodb,mysql,discord,docker,eclipse,arduino,linkedin,gmail,npm,obsidian,postgres,powershell,sqlite,twitter,unity,wordpress,yarn" /><br>
-   <h2 align="center">⚒️ Systems ⚒️</h2> <img src="https://skillicons.dev/icons?i=arch,linux,windows" /><br>
-  <h2 align="center">⚒️ Learning ⚒️</h2>  <img src="https://skillicons.dev/icons?i=typescript,sass,threejs,supabase" /><br>
+  <h2 align="center">⚒️ Languages ⚒️</h2>   
+  <img src="https://skillicons.dev/icons?i=dart,c,java,js,php,cpp,cs,py,html,css,kotlin,ocaml,go,typescript" /><br>
+
+  <h2 align="center">⚒️ Frameworks ⚒️</h2>  
+  <img src="https://skillicons.dev/icons?i=angular,express,nestjs,spring,flutter,bootstrap,qt,react,dotnet,electron,symfony,vue,nextjs,tailwind,threejs,supabase" /><br>
+
+  <h2 align="center">⚒️ Tools ⚒️</h2>  
+  <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,androidstudio,git,nodejs,firebase,mongodb,mysql,discord,docker,eclipse,arduino,linkedin,gmail,npm,obsidian,postgres,powershell,sqlite,twitter,unity,wordpress,visualstudio" /><br>
+
+  <h2 align="center">⚒️ Systems ⚒️</h2> 
+  <img src="https://skillicons.dev/icons?i=arch,linux,windows" /><br>
+
+  <h2 align="center">⚒️ Learning ⚒️</h2>  
+  <img src="https://skillicons.dev/icons?i=typescript,sass,threejs,supabase,nextjs,ocaml,tailwind,go" /><br>
+
 </div>
+
 
 <br/>
 <hr/>
@@ -50,7 +61,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FadiBrahem/FadiBrahem/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
