@@ -71,8 +71,10 @@
 
 
 </div>
- <img align="right" height="180em" alt="fedibrahem" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 
+ <img align="right" height="180em" alt="fedibrahem" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+ <br/>
+ <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadiBrahem&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FadiBrahem&theme=dark" alt="FadiBrahem" /></p>
