@@ -8,22 +8,32 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Generate Snake Animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
         with:
-          github_user_name: eagrundy
+          github_user_name: FadiBrahem
           svg_out_path: dist/github-contribution-grid-snake.svg
-      
-      # Commit and push to the output branch
+
+      # Configure Git and Commit Changes
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit Changes
+        run: |
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation"
+
+      # Push to Output Branch using snaketoken
+      - name: Push Changes
         env:
-          GITHUB_TOKEN: ${{ secrets.snaketoken }}
+          TOKEN: ${{ secrets.snaketoken }}
+        run: |
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/FadiBrahem/FadiBrahem.git
+          git push origin output
