@@ -70,7 +70,7 @@
 
 
 </div>
-
+ <img align="right" height="180em" alt="fedibrahem" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadiBrahem&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
