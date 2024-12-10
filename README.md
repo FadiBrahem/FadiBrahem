@@ -32,16 +32,12 @@
   </a>
 </div>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FadiBrahem&theme=onedark" alt="FadiBrahem" />
-  </a> 
-</p>
 
-<hr/>
+
+
 
 <h2 align="center">⚒️ Languages, Frameworks, Tools, Systems, and Learning ⚒️</h2>
-<br/>
+
 
 <div align="center">
 
