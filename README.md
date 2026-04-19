@@ -61,12 +61,11 @@
 <br/>
 <hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img src="https://github.com/FadiBrahem/FadiBrahem/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <br/>
+</div>
 
 
-<img align="right" height="180em" alt="fedibrahem" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadiBrahem&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadiBrahem&theme=dark" alt="FadiBrahem's streak stats" />
-</p>
