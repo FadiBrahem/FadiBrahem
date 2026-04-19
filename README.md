@@ -61,12 +61,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://github.com/FadiBrahem/FadiBrahem/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-  <br/>
-</div>
+
 
 <img align="right" height="180em" alt="fedibrahem" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 
