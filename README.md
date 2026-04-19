@@ -62,7 +62,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  
   <br>
   <img src="https://github.com/FadiBrahem/FadiBrahem/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
   <br/>
